@@ -1,0 +1,67 @@
+
+.formContainer {
+    background-color: #fdfbfb;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 400px; /* Reduce the maximum width to 400px */
+    margin: 0 auto; /* Center the container horizontally */
+  }
+  
+  .formHeader {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .formGroup {
+    margin-bottom: 10px;
+  }
+  
+  .formLabel {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .formControl {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .submitButton {
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submitButton:hover {
+    background-color: #0056b3;
+  }
+  
+
+  /* product.module.css or your CSS file */
+.tableContainer {
+  /* Your existing styles for table container */
+}
+
+/* Add these styles for the table */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+/* Optionally, style the table header cells differently */
+.table th {
+  background-color: #f2f2f2;
+  text-align: left;
+}

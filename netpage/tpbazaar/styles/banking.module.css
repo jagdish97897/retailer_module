@@ -1,0 +1,107 @@
+/* Update styles according to your design */
+.sidebar {
+  /* Styles for your sidebar */
+}
+
+/* Styles for tabs */
+.tabsContainer {
+  /* Add your styles here */
+}
+
+.tabContent {
+  /* Add your styles here */
+}
+
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+  /* Add your styles here */
+}
+
+.input[type='text'] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  /* Add your styles here */
+}
+
+.button[type='submit'] {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  /* Add your styles here */
+}
+
+/* Styles for table */
+.tableContainer {
+  /* Add your styles here */
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  /* Add your styles here */
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  /* Add your styles here */
+}
+
+.table th {
+  background-color: #f2f2f2;
+  /* Add your styles here */
+}
+
+
+/* CSS for the form */
+.form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.form label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.form input[type='text'] {
+  width: calc(100% - 20px);
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form button[type='submit'] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form button[type='submit']:hover {
+  background-color: #0056b3;
+}
